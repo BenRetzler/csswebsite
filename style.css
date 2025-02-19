@@ -1,3 +1,7 @@
 .white {
     color:white;
 }
+ol li {
+    list-style-type: upper-roman;
+    font-family:cursive;
+}
