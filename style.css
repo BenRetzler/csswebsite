@@ -19,3 +19,6 @@ ol li {
     font-family: monospace;
     transform: rotate(-2deg);
 }
+.strikeit {
+    text-decoration: dashed line-through 2.5px black;
+}
